@@ -29,21 +29,22 @@ public class Month
         break;
         case "jul":
         System.out.println(" July");
+        break;
         case "aug":
-            System.out.println(" August");
-            break;
+        System.out.println(" August");
+        break;
         case "sep":
-            System.out.println(" September");
-            break;
+        System.out.println(" September");
+        break;
         case "oct":
-            System.out.println(" October");
-            break;
+        System.out.println(" October");
+        break;
         case "nov":
-            System.out.println(" November");
-            break;
+        System.out.println(" November");
+        break;
         case "dec":
-            System.out.println("December ");
-            break;
+        System.out.println("December ");
+         
         default:
         System.out.println("Incorrect month");
         }
