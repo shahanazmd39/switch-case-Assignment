@@ -44,8 +44,9 @@ public class Month
         break;
         case "dec":
         System.out.println("December ");
-         
-        default:
+         break;
+        
+	default:
         System.out.println("Incorrect month");
         }
     }
