@@ -39,7 +39,7 @@ public class ConOrVowel
         break;
         case 'U':
         System.out.println(ch+" is a vowel");
-        
+        break;
         
         default:
         System.out.println(ch+" is a consonant");
