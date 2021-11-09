@@ -29,7 +29,8 @@ public class Days
         break;
         case 7:
         System.out.println(" Saturday");
-       
+         break;
+			
         default:
         System.out.println("Incorrect day");
         }
